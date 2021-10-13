@@ -1,0 +1,2 @@
+export const DEFAULT_CURRENCY_ISO_CODE = 'USD'
+export const PAGINATION_LIMIT = 10
