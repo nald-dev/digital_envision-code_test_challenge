@@ -1,8 +1,8 @@
 > Created by Reynald Prabha Nova for Digital Envision Code Test Challenge
 
 <p align="center">
-  <img alt="Crocodic" src="./screenshots/Home.png" width=250/>
-  <img alt="Crocodic" src="./screenshots/Country.png" width=250/>
+  <img alt="Crocodic" src="./screenshots/Home.png" height=300/>
+  <img alt="Crocodic" src="./screenshots/Country.png" height=300/>
 </p>
 
 ## Things To Know
