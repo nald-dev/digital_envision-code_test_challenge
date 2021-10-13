@@ -7,7 +7,9 @@
 
 ## Things To Know
 
-- To run, you must include .env file first (Has been sent via email) into the project root folder then run ```npm start```
+- To run, you must include .env file first (Has been sent via email, it has the same pattern as .env.example file) into the project root folder
+- ```npm install``` to install packages
+- ```npm start``` to run
 - Pages, models, components, references are separated in each file, so it can be reusable flexibly
 - I tried setup this project to be strongly typed using typescript
 
