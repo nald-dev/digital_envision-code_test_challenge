@@ -1,12 +1,17 @@
-# Created by Reynald Prabha Nova for Digital Envision Code Test Challenge
+> Created by Reynald Prabha Nova for Digital Envision Code Test Challenge
 
-# Things To Know
+<p align="center">
+  <img alt="Crocodic" src="./screenshots/Home.png" width=250/>
+  <img alt="Crocodic" src="./screenshots/Country.png" width=250/>
+</p>
 
-- To run, you must include .env file (Has been sent via email) first into the project root folder then run ```npm start```
+## Things To Know
+
+- To run, you must include .env file first (Has been sent via email) into the project root folder then run ```npm start```
 - Pages, models, components, references are separated in each file, so it can be reusable flexibly
 - I tried setup this project to be strongly typed using typescript
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
