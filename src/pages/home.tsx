@@ -4,8 +4,8 @@ import { Helmet } from 'react-helmet'
 import Select from 'react-select'
 
 import CountryItem from '../components/country-item'
-import { DEFAULT_CURRENCY_ISO_CODE, PAGINATION_LIMIT } from '../constants'
-import API from '../helpers/API'
+import { DEFAULT_CURRENCY_ISO_CODE, PAGINATION_LIMIT } from '../references/constants'
+import API from '../references/API'
 import CurrencyInterface from '../models/currency-interface'
 import CountryInterface from '../models/country-interface'
 

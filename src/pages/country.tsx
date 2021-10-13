@@ -5,7 +5,7 @@ import queryString from 'qs'
 import { Helmet } from 'react-helmet'
 
 import CountryInterface from "../models/country-interface"
-import API from "../helpers/API"
+import API from "../references/API"
 import InformationPoint from "../components/information-point"
 
 function Country() {

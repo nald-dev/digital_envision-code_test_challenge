@@ -3,7 +3,7 @@
 # Things To Know
 
 - To run, you must include .env file (Has been sent via email) first into the project root folder then run ```npm start```
-- Pages, models, components, API are separated in each file, so it can be reusable flexibly
+- Pages, models, components, references are separated in each file, so it can be reusable flexibly
 - I tried setup this project to be strongly typed using typescript
 
 # Getting Started with Create React App

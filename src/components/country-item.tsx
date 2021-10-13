@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 
 import { useHistory } from 'react-router-dom'
 
-import API from '../helpers/API'
+import API from '../references/API'
 import CountryInterface from '../models/country-interface'
 
 interface PropsInterface {
